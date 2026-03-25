@@ -1,7 +1,6 @@
 # Proof of Truth - Decentralized Fact Verification Platform
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Web3-purple.svg)](https://ethereum.org)
 
 A decentralized application where users can challenge online claims by staking tokens, with the community deciding truth through reputation-weighted voting.
