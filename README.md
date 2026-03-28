@@ -11,8 +11,7 @@ A decentralized application where users can challenge online claims by staking t
 
 ## What Is This?
 
-Ever see a claim online and wonder if it's true? This platform lets users stake tokens on whether claims are true or false. The community votes, and after 7 days, the claim resolves. Correct voters earn rewards and reputation points, while incorrect voters lose their stake.
-
+Ever see a claim online and wonder if it's true? This platform lets users stake tokens on whether claims are true or false. The community votes, and after 7 days, the claim resolves (for now it is 7 days, but i am thinking of some other way to decide the time span as different claims require different time span). Correct voters earn rewards and reputation points, while incorrect voters lose their stake.
 Think of it as a prediction market for truth, where financial incentives encourage accurate information verification.
 
 ---
