@@ -276,10 +276,7 @@ The goal was to create something functional that demonstrates understanding of b
 
 ## Resources & Inspiration
 
-This project was inspired by:
-- **Augur** - Decentralized prediction markets
-- **Kleros** - Decentralized dispute resolution
-- **Polymarket** - Prediction market platform
+The idea for this project came from a simple habit of mine: whenever I read news, I instinctively check the comment section to understand different perspectives and gauge what might actually be true. This led me to think—why not build a decentralized platform where people can collectively analyze, discuss, and validate information in a transparent way, without relying on a single authority?
 
 Learning resources I used:
 - [Ethers.js Documentation](https://docs.ethers.org/)
